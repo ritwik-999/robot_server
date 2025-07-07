@@ -41,4 +41,4 @@ This simple program prompts users to place a coffee shop order. It includes:
 Make sure you have Python installed. Then run the script from your terminal:
 
 ```bash
-python coffe_corner.py
+python coffee_corner.py
