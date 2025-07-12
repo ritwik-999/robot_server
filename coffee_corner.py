@@ -10,7 +10,7 @@ name = input("whats your name::-")
 if name == "ritwik":            #sorry to myself!
     e = input("are you evil or not::-(yes/no)\n")
     if e == "yes" :
-        print("just leave this place , tou are not welcomedhere !!")
+        print("just leave this place , you are not welcomedhere !!")
         exit()
     else :
         print("oh! you are the good one, most welcome to our coffe corner..." + "\n\nok, " + name + " what you would like to order from our menu::-" )
